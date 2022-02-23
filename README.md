@@ -1,3 +1,3 @@
 # Demo 
 
-A demo repository...enjoy.
+A demo repository...enjoy!
